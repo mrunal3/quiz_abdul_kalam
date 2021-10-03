@@ -3,7 +3,7 @@ const chalk = require("chalk");
 
 //ex13, 14, 15:
 console.log(
-  chalk.greenBright.bgMagenta("  Let's find out How well do you know Dr. A.P.J. Abdul Kalam!!! 🙈  \n")
+  chalk.greenBright.bgMagenta("  Let's find out How well do you know Dr. A.P.J. Abdul Kalam!!!  \n")
 );
 
 const userName = readlineSync.question(
